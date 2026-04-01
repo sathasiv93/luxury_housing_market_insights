@@ -25,14 +25,11 @@ luxury-housing-analysis/
 │
 ├── README.md                              ← You are here
 │
-├── data/
-│   ├── Luxury_Housing_Bangalore.csv       ← Raw dataset
+├── Luxury_Housing_Bangalore.csv       ← Raw dataset
 │
-├── scripts/
-│   └── Luxury_Housing_Cleaning.ipynb      ← Python notebook (Colab)
+├── Luxury_Housing_Cleaning.ipynb      ← Python notebook (Colab)
 │
-├── reports/
-│   └── Insights_Report.md                 ← Key findings & insights
+├── Insights.md                 ← Key findings & insights
 │
 └── Luxury Housing Market Insights (2023-25).pdf
 ```
