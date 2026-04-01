@@ -146,7 +146,7 @@ Raw CSV → Python (Clean + Engineer) → BigQuery (SQL) → Looker Studio (Dash
 ## Links
 
 - **Colab Notebook:** [Open in Colab](https://colab.research.google.com/drive/1HphuT80LIn7406YBSucAQj2XxCqn9tk-)
-- **Looker Studio Dashboard:** [View Dashboard]((https://lookerstudio.google.com/u/0/reporting/0c3fb1bf-ebb4-4bc6-a04a-994c62ca564f/page/p_oajy8zbc2d/edit))
+- **Looker Studio Dashboard:** (https://lookerstudio.google.com/u/0/reporting/0c3fb1bf-ebb4-4bc6-a04a-994c62ca564f/page/p_oajy8zbc2d/edit)
 
 ---
 
